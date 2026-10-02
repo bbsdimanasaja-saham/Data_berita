@@ -1,1 +1,1 @@
-worker: python analisis_saham_bot.py
+worker: python ringkasan_data01.py
