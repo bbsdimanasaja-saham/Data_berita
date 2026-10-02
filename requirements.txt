@@ -1,3 +1,4 @@
 pyTelegramBotAPI
 yfinance
 requests
+python-dotenv
